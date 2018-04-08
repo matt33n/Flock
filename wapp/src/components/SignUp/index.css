@@ -1,0 +1,12 @@
+.app {
+  margin: 30px;
+}
+input{
+    display: block;
+    font-size:11px;
+
+    border:solid 1px #aacfe4;
+    width:150px;
+    margin:2px 0 20px 10px;
+}
+.iframe{width:600px; height:140px; margin:auto;}
